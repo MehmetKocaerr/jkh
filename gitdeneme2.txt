@@ -1,2 +1,1 @@
-def cıkarma(x,y):
-	return z-y 
+
